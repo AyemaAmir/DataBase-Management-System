@@ -43,21 +43,29 @@ This system was developed with a fully relational database design and focuses on
 ---
 
 ## 🖥️ Screenshots
->Login
+>**Login**
+
 ![image](https://github.com/user-attachments/assets/e6b06334-8ce2-4032-8150-97e2e53d2c0e)
->Dashboard
+
+>**Dashboard**
 ![image](https://github.com/user-attachments/assets/cfe62c64-c104-4208-905b-b2110996ae99)
->Invoice
+
+>**Invoice**
 ![image](https://github.com/user-attachments/assets/09e8d9f4-e35a-440b-84ae-b504b87c835f)
->Purchase Record
+
+>**Purchase Record**
 ![image](https://github.com/user-attachments/assets/7f25d852-6187-4a07-984c-4c69ea72f474)
->Profit Report
+
+>**Profit Report**
 ![image](https://github.com/user-attachments/assets/0b4ed867-08df-47a3-9de8-71e3bc317d9c)
->Catalog Entry
+
+>**Catalog Entry**
 ![image](https://github.com/user-attachments/assets/91ba3aa3-d92b-4916-98ee-f73768d248e8)
->Products Record
+
+>**Products Record**
 ![image](https://github.com/user-attachments/assets/ca8b0389-8514-4fcd-9aef-254c94119e20)
->Manage Users
+
+>**Manage Users**
 ![image](https://github.com/user-attachments/assets/d45d7d46-278f-4eab-af4f-e25574c90329)
 
 ---
